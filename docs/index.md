@@ -1,3 +1,7 @@
+Author @ Akhil Reddy Patlolla 
+[github](https://github.com/akhilpatlolla) | [LinkedIn](https://www.linkedin.com/in/akhilreddypatlolla)
+
+---------------------------------------------------------------------------
 
 Widely used  | Task oriented
 ------------- | -------------

@@ -1,5 +1,6 @@
 Author @ Akhil Reddy Patlolla 
-[github](https://github.com/akhilpatlolla) | [LinkedIn](https://www.linkedin.com/in/akhilreddypatlolla)
+
+[github](https://github.com/akhilpatlolla) | [LinkedIn](https://www.linkedin.com/in/akhilreddypatlolla) | [email](mailto:patlolla.akhil@gmail.com)
 
 ---------------------------------------------------------------------------
 

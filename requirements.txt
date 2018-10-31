@@ -1,0 +1,12 @@
+numpy	
+symPy
+matplotlib
+blaze
+sklearn	
+statsmodels
+seaborn
+bokeh
+pandas	
+scrapy
+scipy	
+requests
